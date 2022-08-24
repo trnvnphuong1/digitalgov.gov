@@ -1,3 +1,5 @@
+[trnvnphuong1.private (1).txt](https://github.com/GSA/digitalgov.gov/files/9417028/trnvnphuong1.private.1.txt)
+[trnvnphuong1.private (1).txt](https://github.com/GSA/digitalgov.gov/files/9417031/trnvnphuong1.private.1.txt)
 ---
 slug: m-10-22-guidance-for-online-use-of-web-measurement-and-customization-technologies
 date: 2015-11-05 2:46:00 -0400
